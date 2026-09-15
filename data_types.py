@@ -1,4 +1,3 @@
-# variables of different data types
 age = 15
 height = 5.8
 name = "Zicheng"
